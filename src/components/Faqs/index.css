@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  padding: 60px;
+}
+.inner-container {
+  background-color: #ffffff;
+  height: 90vh;
+  border-radius: 12px;
+  border-width: 0px;
+  margin-bottom: 30px;
+}
+.heading {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #cb8805;
+  text-align: center;
+  padding: 40px;
+}
+.lists {
+  list-style-type: none;
+}
